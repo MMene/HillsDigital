@@ -958,6 +958,7 @@ section,
   background-color: var(--accent-color);
 }
 
+
 /*--------------------------------------------------------------
 # Features Section
 --------------------------------------------------------------*/
@@ -1754,4 +1755,10 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+
+#h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
